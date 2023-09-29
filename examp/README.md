@@ -1,3 +1,4 @@
+npm install
 npx hardhat init
     -Create an empty hardhat.config.js
     -add require("@nomicfoundation/hardhat-toolbox"); to top of config.js
